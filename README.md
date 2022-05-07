@@ -2,5 +2,5 @@
 
 Hi! I'm **Romel John N. Monsanto**. Welcome to my Upskilling Program: SQL for Devs repo.
 
-CSV Email: romeljohn.monsanto@softvision.com
-Personal Email: rjm.ms@outlook.com
+CSV Email: `romeljohn.monsanto@softvision.com`
+Personal Email: `rjm.ms@outlook.com`
