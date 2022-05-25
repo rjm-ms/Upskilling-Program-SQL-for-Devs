@@ -1,0 +1,3 @@
+--SQL for Devs Midterms 7/7
+--7. Create a script using a PIVOT operator to get the monthly sales
+--a. Use Sales.SalesOrderHeader table
